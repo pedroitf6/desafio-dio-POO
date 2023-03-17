@@ -1,5 +1,6 @@
 package desafio.dominio;
 
+
 import java.time.LocalDate;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
@@ -30,6 +31,7 @@ public class Bootcamp {
     public LocalDate getDataInicial() {
         return dataInicial;
     }
+
     public LocalDate getDataFinal() {
         return dataFinal;
     }
